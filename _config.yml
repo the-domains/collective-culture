@@ -1,0 +1,28 @@
+name: Collective Culture
+favicon: null
+layout_spectrum: 0.438270942075178
+typography_spectrum: 0.3887027585878968
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8810129466000944
+  lightness: 0.839971087872982
+  saturation: 0.9410748889204115
+  rhythmicContrast: 0.41648016148246825
+purpose: []
